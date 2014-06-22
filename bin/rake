@@ -1,0 +1,4 @@
+#!1.9.3-p374
+require_relative '../config/boot'
+require 'rake'
+Rake.application.run
